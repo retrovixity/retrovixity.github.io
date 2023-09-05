@@ -75,13 +75,20 @@
 </head>
 <body>
     <h1>Welcome to Bookline Travel</h1>
+    <!-- Placeholder for the logo image -->
+    <img src="placeholder_logo.png" alt="Bookline Travel Logo" width="200" height="150">
     <ul>
         <li><a href="https://www.booklinetravel.com">Visit Our Website</a></li>
     </ul>
     <div class="contact-info">
         <h2>Contact Information</h2>
-        <p>Phone: <a href="https://wa.me/905364537180" class="whatsapp-link">(+90) 536 453 71 80 (WhatsApp)</a></p>
-        <p>Email: <a href="mailto:bookinetravel@gmail.com">bookinetravel@gmail.com</a></p>
+        <!-- Placeholder for the phone icon -->
+        <img src="placeholder_phone_icon.png" alt="Phone Icon" width="32" height="32">
+        <p><a href="https://wa.me/905364537180" class="whatsapp-link">(+90) 536 453 71 80 (WhatsApp)</a></p>
+        <!-- Placeholder for the email icon -->
+        <img src="placeholder_email_icon.png" alt="Email Icon" width="32" height="32">
+        <p><a href="mailto:bookinetravel@gmail.com">bookinetravel@gmail.com</a></p>
     </div>
 </body>
 </html>
+
